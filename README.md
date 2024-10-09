@@ -20,7 +20,9 @@ Key Features:
 
 In this laboratory exercise, this project provides a multi-tab interface showcasing a wide variety of Flutter widgets and interactive components. It serves as a practical reference for learning and experimenting with Flutter's core UI features.
 
-Features:
+<br>
+
+Key Features:
 
 Tab Navigation: The app is organized into four tabs, each demonstrating different UI elements.
 * Tab 1: Displays a text message, "I am the greatest showman!" in the center of a yellow background.
@@ -37,7 +39,9 @@ The app also features a side navigation drawer with user profile details and opt
 
 In this laboratory exercise, it demonstrates multi-screen navigation using named routes. It is designed to provide a clear and easy-to-understand example of navigating between different screens in a Flutter app.
 
-Features:
+<br>
+
+Key Features:
 
 Named Routes: The app uses a simple and scalable approach to navigation by defining named routes for different screens.
 Screens: The app consists of five screens, each represented by a separate widget. These screens can be navigated to from the home screen:
