@@ -38,6 +38,7 @@ The app also features a side navigation drawer with user profile details and opt
 In this laboratory exercise, it demonstrates multi-screen navigation using named routes. It is designed to provide a clear and easy-to-understand example of navigating between different screens in a Flutter app.
 
 Features:
+
 Named Routes: The app uses a simple and scalable approach to navigation by defining named routes for different screens.
 Screens: The app consists of five screens, each represented by a separate widget. These screens can be navigated to from the home screen:
 * Home Screen (HomeScreen)
