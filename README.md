@@ -21,11 +21,13 @@ Key Features:
 In this laboratory exercise, this project provides a multi-tab interface showcasing a wide variety of Flutter widgets and interactive components. It serves as a practical reference for learning and experimenting with Flutter's core UI features.
 
 Features:
-* Tab Navigation: The app is organized into four tabs, each demonstrating different UI elements.
-** Tab 1: Displays a text message, "I am the greatest showman!" in the center of a yellow background.
-** Tab 2: Shows an image (rendon.png) centered within a pink background, using Image.asset() for loading assets.
-Tab 3: Includes various button types such as ElevatedButton, FloatingActionButton, IconButton, DropdownButton, and PopupMenuButton, all with navigational functionality.
-Tab 4: Contains interactive elements like checkboxes, radio buttons, switches, and sliders for user selection.
+
+Tab Navigation: The app is organized into four tabs, each demonstrating different UI elements.
+* Tab 1: Displays a text message, "I am the greatest showman!" in the center of a yellow background.
+* Tab 2: Shows an image (rendon.png) centered within a pink background, using Image.asset() for loading assets.
+* Tab 3: Includes various button types such as ElevatedButton, FloatingActionButton, IconButton, DropdownButton, and PopupMenuButton, all with navigational functionality.
+* Tab 4: Contains interactive elements like checkboxes, radio buttons, switches, and sliders for user selection.
+
 Drawer Menu:
 The app also features a side navigation drawer with user profile details and options for Home, Settings, and Help.
 
