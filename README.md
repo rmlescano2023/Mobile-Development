@@ -8,6 +8,8 @@
 
 In this laboratory exercise, it demonstrates a multi-tab interface that includes various UI components and interactions, making it a practical tool for learning and experimenting with Flutter widgets. The app is divided into four tabs: Text, Image, Buttons, and Selections. Each tab showcases different Flutter widgets and interactive elements.
 
+<br>
+
 Key Features:
 * Tab Navigation: Allows switching between four tabs.
 * Drawer Menu: Includes options like Home, Settings, and Help, as well as a customizable user profile.
@@ -52,3 +54,17 @@ Screens: The app consists of five screens, each represented by a separate widget
 * Fifth Screen (FifthScreen)
 
 Route Management: The MaterialApp widget manages the routes and provides a clean method to navigate between the screens using Navigator.pushNamed().
+
+<br>
+
+## LAB 4
+
+In this laboratory exercise, it shows a simple Flutter application that demonstrates how to manage state using the StatefulWidget. It includes a counter that increments every time the user taps a floating action button.
+
+<br>
+ 
+Features:
+* State Management: The app showcases basic state management with the help of the setState() method, which updates the UI when the counter is incremented.
+* Responsive UI: The app dynamically updates the displayed counter value in the center of the screen.
+* Floating Action Button: The user can increment the counter by pressing the floating action button at the bottom of the screen.
+* Theming: The app uses a blue theme, with easy customization by changing the primarySwatch in ThemeData.
