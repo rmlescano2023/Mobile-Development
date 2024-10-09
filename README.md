@@ -32,3 +32,17 @@ Drawer Menu:
 The app also features a side navigation drawer with user profile details and options for Home, Settings, and Help.
 
 <br>
+
+## LAB 3
+
+In this laboratory exercise, it demonstrates multi-screen navigation using named routes. It is designed to provide a clear and easy-to-understand example of navigating between different screens in a Flutter app.
+
+Features:
+&nbsp; Named Routes: The app uses a simple and scalable approach to navigation by defining named routes for different screens.
+&ensp; Screens: The app consists of five screens, each represented by a separate widget. These screens can be navigated to from the home screen:
+Home Screen (HomeScreen)
+Second Screen (SecondScreen)
+Third Screen (ThirdScreen)
+Fourth Screen (FourthScreen)
+Fifth Screen (FifthScreen)
+Route Management: The MaterialApp widget manages the routes and provides a clean method to navigate between the screens using Navigator.pushNamed().
