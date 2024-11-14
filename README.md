@@ -63,7 +63,7 @@ In this laboratory exercise, it shows a simple Flutter application that demonstr
 
 <br>
  
-Features:
+Key Features:
 * State Management: The app showcases basic state management with the help of the setState() method, which updates the UI when the counter is incremented.
 * Responsive UI: The app dynamically updates the displayed counter value in the center of the screen.
 * Floating Action Button: The user can increment the counter by pressing the floating action button at the bottom of the screen.
