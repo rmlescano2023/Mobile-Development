@@ -10,7 +10,7 @@ In this laboratory exercise, it demonstrates a multi-tab interface that includes
 
 <br>
 
-Key Features:
+**Key Features:**
 * Tab Navigation: Allows switching between four tabs.
 * Drawer Menu: Includes options like Home, Settings, and Help, as well as a customizable user profile.
 * Buttons Tab: Displays different types of buttons, such as elevated, floating, text, and icon buttons, along with a dropdown and popup menu for selection.
@@ -24,7 +24,7 @@ In this laboratory exercise, this project provides a multi-tab interface showcas
 
 <br>
 
-Key Features:
+**Key Features:**
 
 Tab Navigation: The app is organized into four tabs, each demonstrating different UI elements.
 * Tab 1: Displays a text message, "I am the greatest showman!" in the center of a yellow background.
@@ -43,7 +43,7 @@ In this laboratory exercise, it demonstrates multi-screen navigation using named
 
 <br>
 
-Key Features:
+**Key Features:**
 
 Named Routes: The app uses a simple and scalable approach to navigation by defining named routes for different screens.
 Screens: The app consists of five screens, each represented by a separate widget. These screens can be navigated to from the home screen:
@@ -63,7 +63,7 @@ In this laboratory exercise, it shows a simple Flutter application that demonstr
 
 <br>
  
-Key Features:
+**Key Features:**
 * State Management: The app showcases basic state management with the help of the setState() method, which updates the UI when the counter is incremented.
 * Responsive UI: The app dynamically updates the displayed counter value in the center of the screen.
 * Floating Action Button: The user can increment the counter by pressing the floating action button at the bottom of the screen.
